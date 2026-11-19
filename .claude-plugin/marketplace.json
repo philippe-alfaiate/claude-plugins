@@ -1,0 +1,16 @@
+{
+  "name": "philippe-alfaiate",
+  "owner": {
+    "name": "Philippe Alfaiate"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Philippe Alfaiate."
+  },
+  "plugins": [
+    {
+      "name": "go-comment-rules",
+      "source": "./plugins/go-comment-rules",
+      "description": "Rules for writing or editing comments in Go code."
+    }
+  ]
+}
